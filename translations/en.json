@@ -1,0 +1,14 @@
+{
+  "app": {
+    "package": "ticket_to_user_tags",
+    "description": {
+      "value": "Apply ticket tags to the requester as user tags",
+      "title": "app description"
+    }
+  },
+
+  "updated_user": {
+    "value": "Updated user ",
+    "title": "user successfully updated"
+  }
+}
